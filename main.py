@@ -38,3 +38,4 @@ class Student:
 
 student = Student("Андрій", 2000)
 student.live_year()
+#друге завдання
